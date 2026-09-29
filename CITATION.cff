@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or reproducibility package, please cite the archived release."
+title: "Spatial Evidence-Sufficiency Reference Engine"
+type: software
+version: 1.0.0
+date-released: 2026-09-29
+authors:
+  - family-names: "Busón Buesa"
+    given-names: "Carlos"
+    orcid: "https://orcid.org/0000-0002-1446-2252"
+  - family-names: "Garcia Gabas"
+    given-names: "Sandra"
+    orcid: "https://orcid.org/0000-0002-1027-0288"
+repository-code: "https://github.com/cbuson/spatial-evidence-sufficiency-engine"
+license: MIT
+keywords:
+  - GIScience
+  - spatial data quality
+  - evidence sufficiency
+  - bounded inference
+  - spatial support
+  - epistemic states
+  - reproducibility
+  - Python
+abstract: >-
+  Domain-neutral Python reference engine and reproducibility package for
+  target-specific bounded inference under incomplete spatial evidence. The
+  package includes unit tests, a frozen PAG-ETR M2/M4 fixture, exact semantic
+  reproduction outputs, structural contract-sensitivity outputs, and a
+  supplementary methodological workbook.

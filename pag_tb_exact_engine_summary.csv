@@ -1,0 +1,4 @@
+scale_km2,cells,native_overall_open,native_m2_open,native_m4_open,engine_supportable_overall,engine_supportable_m2,engine_supportable_m4,engine_non_evaluable_overall,discrepancies_overall,discrepancies_m2,discrepancies_m4
+250,1554,49,3,46,49,3,46,1505,0,0,0
+500,793,37,3,34,37,3,34,756,0,0,0
+1000,412,24,2,22,24,2,22,388,0,0,0

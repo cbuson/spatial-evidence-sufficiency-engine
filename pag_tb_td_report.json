@@ -1,0 +1,159 @@
+{
+  "engine": "evidence_sufficiency_engine.py",
+  "total_cells": 2759,
+  "total_cell_output_comparisons": 8277,
+  "total_supportable_baseline": 110,
+  "total_non_evaluable_baseline": 2649,
+  "total_discrepancies": 0,
+  "summary": [
+    {
+      "scale_km2": 250,
+      "cells": 1554,
+      "native_overall_open": 49,
+      "native_m2_open": 3,
+      "native_m4_open": 46,
+      "engine_supportable_overall": 49,
+      "engine_supportable_m2": 3,
+      "engine_supportable_m4": 46,
+      "engine_non_evaluable_overall": 1505,
+      "discrepancies_overall": 0,
+      "discrepancies_m2": 0,
+      "discrepancies_m4": 0
+    },
+    {
+      "scale_km2": 500,
+      "cells": 793,
+      "native_overall_open": 37,
+      "native_m2_open": 3,
+      "native_m4_open": 34,
+      "engine_supportable_overall": 37,
+      "engine_supportable_m2": 3,
+      "engine_supportable_m4": 34,
+      "engine_non_evaluable_overall": 756,
+      "discrepancies_overall": 0,
+      "discrepancies_m2": 0,
+      "discrepancies_m4": 0
+    },
+    {
+      "scale_km2": 1000,
+      "cells": 412,
+      "native_overall_open": 24,
+      "native_m2_open": 2,
+      "native_m4_open": 22,
+      "engine_supportable_overall": 24,
+      "engine_supportable_m2": 2,
+      "engine_supportable_m4": 22,
+      "engine_non_evaluable_overall": 388,
+      "discrepancies_overall": 0,
+      "discrepancies_m2": 0,
+      "discrepancies_m4": 0
+    }
+  ],
+  "contract_sensitivity": [
+    {
+      "scale_km2": 250,
+      "contract": "baseline_ANY",
+      "supportable": 49,
+      "change_vs_baseline": 0,
+      "pct_of_cells": 0.03153153153153153
+    },
+    {
+      "scale_km2": 250,
+      "contract": "M2_only",
+      "supportable": 3,
+      "change_vs_baseline": -46,
+      "pct_of_cells": 0.0019305019305019305
+    },
+    {
+      "scale_km2": 250,
+      "contract": "M4_only",
+      "supportable": 46,
+      "change_vs_baseline": -3,
+      "pct_of_cells": 0.029601029601029602
+    },
+    {
+      "scale_km2": 250,
+      "contract": "ALL_M2_M4",
+      "supportable": 0,
+      "change_vs_baseline": -49,
+      "pct_of_cells": 0.0
+    },
+    {
+      "scale_km2": 250,
+      "contract": "COUNT_AT_LEAST_2",
+      "supportable": 0,
+      "change_vs_baseline": -49,
+      "pct_of_cells": 0.0
+    },
+    {
+      "scale_km2": 500,
+      "contract": "baseline_ANY",
+      "supportable": 37,
+      "change_vs_baseline": 0,
+      "pct_of_cells": 0.04665825977301387
+    },
+    {
+      "scale_km2": 500,
+      "contract": "M2_only",
+      "supportable": 3,
+      "change_vs_baseline": -34,
+      "pct_of_cells": 0.0037831021437578815
+    },
+    {
+      "scale_km2": 500,
+      "contract": "M4_only",
+      "supportable": 34,
+      "change_vs_baseline": -3,
+      "pct_of_cells": 0.04287515762925599
+    },
+    {
+      "scale_km2": 500,
+      "contract": "ALL_M2_M4",
+      "supportable": 0,
+      "change_vs_baseline": -37,
+      "pct_of_cells": 0.0
+    },
+    {
+      "scale_km2": 500,
+      "contract": "COUNT_AT_LEAST_2",
+      "supportable": 0,
+      "change_vs_baseline": -37,
+      "pct_of_cells": 0.0
+    },
+    {
+      "scale_km2": 1000,
+      "contract": "baseline_ANY",
+      "supportable": 24,
+      "change_vs_baseline": 0,
+      "pct_of_cells": 0.05825242718446602
+    },
+    {
+      "scale_km2": 1000,
+      "contract": "M2_only",
+      "supportable": 2,
+      "change_vs_baseline": -22,
+      "pct_of_cells": 0.0048543689320388345
+    },
+    {
+      "scale_km2": 1000,
+      "contract": "M4_only",
+      "supportable": 22,
+      "change_vs_baseline": -2,
+      "pct_of_cells": 0.05339805825242718
+    },
+    {
+      "scale_km2": 1000,
+      "contract": "ALL_M2_M4",
+      "supportable": 0,
+      "change_vs_baseline": -24,
+      "pct_of_cells": 0.0
+    },
+    {
+      "scale_km2": 1000,
+      "contract": "COUNT_AT_LEAST_2",
+      "supportable": 0,
+      "change_vs_baseline": -24,
+      "pct_of_cells": 0.0
+    }
+  ]
+}
