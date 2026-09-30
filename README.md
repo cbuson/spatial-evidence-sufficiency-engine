@@ -141,13 +141,11 @@ These applications are development cases, not independent replications.
 
 ## Citation
 
-Until the Zenodo DOI for release `v1.0.0` is minted, cite this repository using the metadata in `CITATION.cff`.
-
-After archiving the GitHub release in Zenodo, replace the DOI placeholder in the manuscript and README with the DOI assigned to the archived release.
-
-Suggested repository URL:
+repository URL:
 
 `https://github.com/cbuson/spatial-evidence-sufficiency-engine`
+
+Busón Buesa, C., & Garcia Gabas, S. (2026). Spatial Evidence-Sufficiency Reference Engine (Versión v1.0.2) [Software informático]. Zenodo. https://doi.org/10.5281/zenodo.23047388
 
 ## Versioning
 
