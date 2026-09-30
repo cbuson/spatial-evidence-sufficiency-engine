@@ -41,3 +41,6 @@ From incomplete spatial evidence to bounded inference: an integrative evidence-s
 ## Licensing note
 
 The Python source code is MIT licensed. The supplementary workbook and generated data/results are CC BY 4.0. If Zenodo requires a single record-level license, verify how mixed licensing is represented before publishing and retain the file-level license statements in this repository.
+
+## DOI
+Busón Buesa, C., & Garcia Gabas, S. (2026). Spatial Evidence-Sufficiency Reference Engine (Versión v1.0.2) [Software informático]. Zenodo. https://doi.org/10.5281/zenodo.23047388
